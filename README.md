@@ -4,7 +4,7 @@ Lets you change your discord status to your own custom message
 Made by Swishy
 <hr>
 
- - Swishy#6669
+ - Swishy#1337
    - discord.gg/trend 
 <hr>
 
